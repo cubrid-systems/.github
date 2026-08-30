@@ -1,8 +1,17 @@
-# CUBRID Systems Research
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cubrid-systems/.github/main/profile/banner-dark.svg">
+  <img src="https://raw.githubusercontent.com/cubrid-systems/.github/main/profile/banner-light.svg" alt="CUBRID Systems Research" width="880">
+</picture>
 
 CUBRID Systems Research is an independent, experimental R&D effort focused on exploring and improving core technologies of the CUBRID database system.
 
 This is not an official organization, but a space for prototyping, experimentation, and system-level research that may eventually contribute to the CUBRID open-source ecosystem.
+
+The mark above is CUBRID's own tangram, rearranged. Not one piece added, removed
+or resized — the same seven that make CUBRID's square, reassembled into a rocket
+standing on its pad. The capability is already in CUBRID; what a systems research
+group adds is a different arrangement of it. Put the same pieces together another
+way and they will fly.
 
 ## Focus Areas
 

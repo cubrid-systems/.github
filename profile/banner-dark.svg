@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 200" width="880" height="200"
+     role="img" aria-label="CUBRID Systems Research: experimental work on CUBRID internals, upstreamed when it is ready">
+  <title>CUBRID Systems Research</title>
+  <style>
+    .ink   { fill: #e7ecf4; }
+    .brand { fill: #6e9bee; }
+    .muted { fill: #96a1b5; }
+    .pad   { stroke: #3a465a; stroke-width: 2; stroke-linecap: round; }
+    .lift  { fill: #4C86E8; }
+    .wm  { font-family: ui-monospace, "SFMono-Regular", "JetBrains Mono", Menlo, Consolas, monospace;
+           font-size: 30px; font-weight: 700; letter-spacing: -0.4px; }
+    .wm-parent { font-weight: 400; }
+    .tag { font-family: ui-sans-serif, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+           font-size: 15px; }
+    .cap { font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+           font-size: 11px; letter-spacing: 0.3px; }
+  </style>
+
+  <line class="pad" x1="38.0" y1="164.4" x2="204.0" y2="164.4"/>
+
+  <g transform="translate(48.000,31.000) scale(2.07436) translate(0.656,0.500)">
+    <polygon class="" points="10.0797,10.0797 53.9203,10.0797 32.0000,32.0000" fill="#00D936">
+        <animateTransform attributeName="transform" type="rotate" values="0 7.4773 25.7174;0 7.4773 25.7174;45.0000 7.4773 25.7174;45.0000 7.4773 25.7174;0 7.4773 25.7174" keyTimes="0;0.1;0.29;0.81;1" dur="9s" calcMode="spline" keySplines=".4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1" repeatCount="indefinite"/>
+      </polygon>
+      <polygon class="" points="10.0797,53.9203 10.0797,10.0797 32.0000,32.0000" fill="#FFAE00">
+        <animateTransform attributeName="transform" type="rotate" values="0 22.9773 0.8623;0 22.9773 0.8623;-45.0000 22.9773 0.8623;-45.0000 22.9773 0.8623;0 22.9773 0.8623" keyTimes="0;0.1;0.29;0.81;1" dur="9s" calcMode="spline" keySplines=".4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1" repeatCount="indefinite"/>
+      </polygon>
+      <polygon class="" points="53.9203,53.9203 32.0000,53.9203 53.9203,32.0000" fill="#BE34A9">
+        <animateTransform attributeName="transform" type="rotate" values="0 33.9375 31.1975;0 33.9375 31.1975;-135.0000 33.9375 31.1975;-135.0000 33.9375 31.1975;0 33.9375 31.1975" keyTimes="0;0.1;0.29;0.81;1" dur="9s" calcMode="spline" keySplines=".4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1" repeatCount="indefinite"/>
+      </polygon>
+      <polygon class="" points="32.0000,32.0000 42.9602,21.0398 53.9203,32.0000 42.9602,42.9602" fill="#FF6305">
+        <animateTransform attributeName="transform" type="rotate" values="0 34.6023 42.1576;0 34.6023 42.1576;135.0000 34.6023 42.1576;135.0000 34.6023 42.1576;0 34.6023 42.1576" keyTimes="0;0.1;0.29;0.81;1" dur="9s" calcMode="spline" keySplines=".4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1" repeatCount="indefinite"/>
+      </polygon>
+      <polygon class="" points="53.9203,10.0797 53.9203,32.0000 42.9602,21.0398" fill="#FF2B36">
+        <animateTransform attributeName="transform" type="rotate" values="0 44.2328 45.0924;0 44.2328 45.0924;-135.0000 44.2328 45.0924;-135.0000 44.2328 45.0924;0 44.2328 45.0924" keyTimes="0;0.1;0.29;0.81;1" dur="9s" calcMode="spline" keySplines=".4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1" repeatCount="indefinite"/>
+      </polygon>
+      <polygon class="" points="42.9602,42.9602 21.0398,42.9602 32.0000,32.0000" fill="#0091F8">
+        <animateTransform attributeName="transform" type="rotate" values="0 44.2328 45.0924;0 44.2328 45.0924;-135.0000 44.2328 45.0924;-135.0000 44.2328 45.0924;0 44.2328 45.0924" keyTimes="0;0.1;0.29;0.81;1" dur="9s" calcMode="spline" keySplines=".4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1" repeatCount="indefinite"/>
+      </polygon>
+      <polygon class="lift" points="21.0398,42.9602 42.9602,42.9602 32.0000,53.9203 10.0797,53.9203" fill="#002887">
+        <animateTransform attributeName="transform" type="rotate" values="0 19.7672 45.0924;0 19.7672 45.0924;135.0000 19.7672 45.0924;135.0000 19.7672 45.0924;0 19.7672 45.0924" keyTimes="0;0.1;0.29;0.81;1" dur="9s" calcMode="spline" keySplines=".4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1" repeatCount="indefinite"/>
+      </polygon>
+  </g>
+
+  <text class="wm brand" x="246" y="92"><tspan class="wm-parent">CUBRID </tspan>Systems Research</text>
+  <text class="tag ink" x="246" y="122">CUBRID&#8217;s own seven pieces, rearranged into something that can fly.</text>
+  <text class="tag muted" x="246" y="144">Experimental systems research on the database core.</text>
+  <text class="cap muted" x="246" y="170">SYSTEMS LAB &#183; PROTOTYPE &#183; MEASURE &#183; UPSTREAM</text>
+</svg>
