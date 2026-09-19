@@ -26,6 +26,7 @@ What we are working on, by category:
 
 - [cubrid-cluster-sandbox](https://github.com/cubrid-systems/cubrid-cluster-sandbox) — stands a multi-node CUBRID topology up in containers from your own build, and reproduces the states you need a cluster for: replication lag, split brain, failback.
 - [cubrid-importdb](https://github.com/cubrid-systems/cubrid-importdb) — one-command reloader for `unloaddb` dumps, built out of tree against the engine it runs with.
+- [cubrid-testkit](https://github.com/cubrid-systems/cubrid-testkit) — runs CUBRID's functional tests, taking CTP's tasks over one at a time behind the same commands and the same output.
 
 ## Focus Areas
 
