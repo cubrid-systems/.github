@@ -13,6 +13,21 @@ standing on its pad. The capability is already in CUBRID; what a systems researc
 group adds is a different arrangement of it. Put the same pieces together another
 way and they will fly.
 
+## Current Work
+
+What we are working on, by category:
+
+**Benchmarking**
+
+- [benchbase](https://github.com/cubrid-systems/benchbase) — fork of CMU's BenchBase that adds CUBRID as a JDBC target; fifteen of its eighteen benchmarks run, TPC-C, TPC-H and YCSB among them.
+- [HammerDB](https://github.com/cubrid-systems/HammerDB) — fork of HammerDB that adds a CUBRID TPROC-C workload and `cubridtcl`, a Tcl binding over CCI.
+
+**Tooling**
+
+- [cubrid-cluster-sandbox](https://github.com/cubrid-systems/cubrid-cluster-sandbox) — stands a multi-node CUBRID topology up in containers from your own build, and reproduces the states you need a cluster for: replication lag, split brain, failback.
+- [cubrid-importdb](https://github.com/cubrid-systems/cubrid-importdb) — one-command reloader for `unloaddb` dumps, built out of tree against the engine it runs with.
+- [cubrid-testkit](https://github.com/cubrid-systems/cubrid-testkit) — runs CUBRID's functional tests, taking CTP's tasks over one at a time behind the same commands and the same output.
+
 ## Focus Areas
 
 We explore system-level aspects of a relational database system, including:
@@ -34,9 +49,9 @@ Our work is driven by practical experimentation:
 3. Measure performance and behavior
 4. Share results and contribute upstream when appropriate
 
-## Projects
+## Project Types
 
-This organization may include:
+Work here may take the form of:
 
 - Experimental implementations and prototypes
 - Performance experiments and benchmarks
